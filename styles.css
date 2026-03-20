@@ -138,7 +138,7 @@ Card destacado (el primero)
   grid-column: 1 / -1;   /* sigue en su propia fila */
   max-width: 350px;      /* mismo tamaño que cards */
   margin: 0 auto;        /* lo centra */
-  background:#1D1D1B;
+  background:#00DA60;
   color:white;
 }
 
