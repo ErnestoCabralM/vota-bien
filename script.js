@@ -4,9 +4,17 @@ let categoriaActiva = 'Todos';
 fetch('data.json')
   .then(res => res.json())
   .then(data => {
-    dataGlobal = data;
-    renderFilters(data);
-    renderCards(data);
+
+    const ordenados = [
+      ...data.filter(d => d.destacado),
+      ...data.filter(d => !d.destacado)
+    ];
+
+    dataGlobal = ordenados;
+
+    renderFilters(ordenados);
+    renderCards(ordenados);
+
   });
 
 function renderFilters(data) {
