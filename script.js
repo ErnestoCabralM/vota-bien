@@ -48,6 +48,7 @@ function renderCards(data) {
     card.className = item.destacado ? 'card destacado' : 'card';
 
     card.innerHTML = `
+      <img src="${item.imagen}" alt="${item.nombre}">
       <h3>${item.nombre}</h3>
       <p>${item.descripcion}</p>
       <a href="${item.url}" target="_blank">Visitar</a>
