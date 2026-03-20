@@ -38,9 +38,12 @@ function renderFilters(data) {
 
 function renderCards(data) {
   const container = document.getElementById('cards');
-  container.innerHTML = '';
+  const destacadosContainer = document.getElementById('destacados');
 
-  data.forEach((item, index) => {
+  container.innerHTML = '';
+  destacadosContainer.innerHTML = '';
+
+  data.forEach(item => {
     const card = document.createElement('div');
     card.className = item.destacado ? 'card destacado' : 'card';
 
@@ -50,7 +53,11 @@ function renderCards(data) {
       <a href="${item.url}" target="_blank">Visitar</a>
     `;
 
-    container.appendChild(card);
+    if(item.destacado){
+      destacadosContainer.appendChild(card);
+    } else {
+      container.appendChild(card);
+    }
   });
 }
 
