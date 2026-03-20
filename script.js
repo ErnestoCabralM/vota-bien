@@ -34,7 +34,7 @@ function renderCards(data) {
 
   data.forEach((item, index) => {
     const card = document.createElement('div');
-    card.className = index === 0 ? 'card destacado' : 'card';
+    card.className = item.destacado ? 'card destacado' : 'card';
 
     card.innerHTML = `
       <h3>${item.nombre}</h3>
