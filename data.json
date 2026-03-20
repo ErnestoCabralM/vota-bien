@@ -18,7 +18,8 @@
     "descripcion": "Descubre a tu mal menor o a tu candidato ideal",
     "url": "https://elmalmenor.com/",
     "categoria": "Investigación",
-    "destacado": false
+    "destacado": false,
+    "imagen": "img/logoprueba.jpeg"
   },
   {
     "nombre": "Convoca",
