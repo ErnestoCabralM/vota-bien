@@ -17,14 +17,14 @@
     "nombre": "Ojo Público - Elecciones",
     "descripcion": "Investigaciones y visualizaciones electorales",
     "url": "https://ojo-publico.com",
-    "categoria": "Investigación"
+    "categoria": "Investigación",
     "destacado": false
   },
   {
     "nombre": "Convoca",
     "descripcion": "Periodismo de datos sobre política",
     "url": "https://convoca.pe",
-    "categoria": "Investigación"
+    "categoria": "Investigación",
     "destacado": false
   }
 ]
