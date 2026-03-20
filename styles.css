@@ -1,5 +1,5 @@
 /* =========================
-BASE + HEADER
+BASE
 ========================= */
 
 body{
@@ -9,26 +9,62 @@ body{
   color:#222;
 }
 
+/* =========================
+HEADER
+========================= */
+
+.site-header{
+  background:#1D1D1B;
+  color:white;
+}
+
+.header-wrap{
+  max-width:1100px;
+  margin:auto;
+  padding:6px 20px;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+}
+
+.header-left{
+  display:flex;
+  align-items:center;
+  gap:10px;
+}
+
+.logo{
+  height:28px;
+}
+
+.site-name{
+  font-weight:600;
+  font-size:15px;
+}
+
+.header-right{
+  font-size:12px;
+}
+
+/* =========================
+HERO
+========================= */
+
 .hero{
   text-align:center;
   padding:50px 20px 25px;
 }
 
-/* Titular */
 h1{
   font-family:"Merriweather", serif;
   font-size:42px;
-  font-weight:700;
   margin:0 0 10px 0;
   color:#1D1D1B;
-  text-align:center;
 }
 
-/* Bajada */
 .subtitle{
-  text-align:center;
   max-width:700px;
-  margin:0 auto 25px auto;
+  margin:0 auto 25px;
   font-size:18px;
   line-height:1.6;
   color:#1D1D1B;
@@ -45,7 +81,6 @@ BUSCADOR
   border-radius:8px;
   border:1px solid #ccc;
   font-size:15px;
-  margin-top:10px;
 }
 
 /* =========================
@@ -73,7 +108,20 @@ FILTROS
 }
 
 /* =========================
-GRID
+DESTACADOS (fila superior)
+========================= */
+
+.destacados{
+  display:grid;
+  grid-template-columns:repeat(auto-fit, minmax(300px, 1fr));
+  gap:20px;
+  max-width:1100px;
+  margin:30px auto 10px;
+  padding:0 25px;
+}
+
+/* =========================
+GRID NORMAL
 ========================= */
 
 .container{
@@ -132,15 +180,13 @@ CARDS
 }
 
 /* =========================
-Card destacado (el primero)
+CARD DESTACADO
 ========================= */
+
 .card.destacado{
   background:#00DA60;
   color:white;
-}
-
-.card.destacado{
-  transform: scale(1.03);
+  transform:scale(1.03);
 }
 
 .card.destacado p{
@@ -154,51 +200,4 @@ Card destacado (el primero)
 
 .card.destacado a:hover{
   background:#e0e6ed;
-}
-
-/* =========================
-HEADER SUPERIOR
-========================= */
-
-.site-header{
-  background:#1D1D1B;
-  color:white;
-}
-
-.header-wrap{
-  max-width:1100px;
-  margin:auto;
-  padding:6px 20px; /* ↓ más delgado */
-  display:flex;
-  justify-content:space-between;
-  align-items:center;
-}
-
-.header-left{
-  display:flex;
-  align-items:center;
-  gap:10px;
-}
-
-.logo{
-  height:32px;
-}
-
-.site-name{
-  font-weight:600;
-  font-size:16px;
-}
-
-.header-right{
-  font-size:13px;
-  opacity:0.9;
-}
-
-/* =========================
-HERO (titulo + buscador)
-========================= */
-
-.hero{
-  text-align:center;
-  padding:40px 20px 25px;
 }
