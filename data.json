@@ -1,9 +1,9 @@
 [
   {
     "nombre": "Club Otorongo",
-    "descripcion": "Conoce los antecedentes de todos los candidatos",
+    "descripcion": "Los antecedentes de todos los candidatos",
     "url": "https://otorongo.club/",
-    "categoria": "Resultados",
+    "categoria": "Antecedentes",
     "destacado": true,
     "imagen": "img/logoprueba.jpeg"
   },
@@ -17,16 +17,16 @@
   },
   {
     "nombre": "El mal menor",
-    "descripcion": "Descubre a tu mal menor o a tu candidato ideal",
+    "descripcion": "Descubre tu mal menor o candidato ideal",
     "url": "https://elmalmenor.com/",
     "categoria": "Investigación",
     "destacado": false,
     "imagen": "img/logoprueba.jpeg"
   },
   {
-    "nombre": "Convoca",
-    "descripcion": "Periodismo de datos sobre política",
-    "url": "https://convoca.pe",
+    "nombre": "Hechos y no palabras",
+    "descripcion": "Revisa las votaciones de los congresistas",
+    "url": "https://hechosynopalabras.pe/",
     "categoria": "Investigación",
     "destacado": false,
     "imagen": "img/logoprueba.jpeg"
