@@ -32,9 +32,9 @@ function renderCards(data) {
   const container = document.getElementById('cards');
   container.innerHTML = '';
 
-  data.forEach(item => {
+  data.forEach((item, index) => {
     const card = document.createElement('div');
-    card.className = 'card';
+    card.className = index === 0 ? 'card destacado' : 'card';
 
     card.innerHTML = `
       <h3>${item.nombre}</h3>
