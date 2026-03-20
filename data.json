@@ -3,18 +3,28 @@
     "nombre": "ONPE Resultados",
     "descripcion": "Resultados oficiales en tiempo real",
     "url": "https://www.onpe.gob.pe",
-    "categoria": "Resultados"
+    "categoria": "Resultados",
+    "destacado": true
+  },
+  {
+    "nombre": "ONPE Resultados",
+    "descripcion": "Resultados oficiales en tiempo real",
+    "url": "https://www.onpe.gob.pe",
+    "categoria": "Resultados",
+    "destacado": true
   },
   {
     "nombre": "Ojo Público - Elecciones",
     "descripcion": "Investigaciones y visualizaciones electorales",
     "url": "https://ojo-publico.com",
     "categoria": "Investigación"
+    "destacado": false
   },
   {
     "nombre": "Convoca",
     "descripcion": "Periodismo de datos sobre política",
     "url": "https://convoca.pe",
     "categoria": "Investigación"
+    "destacado": false
   }
 ]
