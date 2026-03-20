@@ -15,8 +15,26 @@
 
 <body>
 
-  <header>
+  <!-- HEADER SUPERIOR -->
+  <header class="site-header">
+    <div class="header-wrap">
+  
+      <div class="header-left">
+        <img src="logo.png" alt="Vota bien Perú" class="logo">
+        <span class="site-name">Vota bien, Perú</span>
+      </div>
+  
+      <div class="header-right">
+        <span>Elecciones 2026</span>
+      </div>
+  
+    </div>
+  </header>
+
+  <!-- HERO -->
+  <section class="hero">
     <h1>Vota bien, Perú</h1>
+
     <p class="subtitle">
       Aquí están todas las apps y plataformas que necesitas para tomar una decisión informada en estas elecciones.
     </p>
@@ -26,14 +44,17 @@
       id="search" 
       placeholder="Buscar herramienta..."
     >
-  </header>
+  </section>
 
+  <!-- FILTROS (faltaba esto) -->
   <section class="filters" id="filters"></section>
 
+  <!-- CONTENIDO -->
   <main>
     <section class="container" id="cards"></section>
   </main>
 
+  <!-- JS -->
   <script src="script.js"></script>
 
 </body>
