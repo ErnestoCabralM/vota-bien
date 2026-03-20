@@ -135,9 +135,15 @@ CARDS
 Card destacado (el primero)
 ========================= */
 .card.destacado{
-  grid-column: 1 / -1; /* ocupa toda la fila */
-  background:#00DA60;
-  color:#1D1D1B;
+  grid-column: 1 / -1;   /* sigue en su propia fila */
+  max-width: 350px;      /* mismo tamaño que cards */
+  margin: 0 auto;        /* lo centra */
+  background:#1D1D1B;
+  color:white;
+}
+
+.card.destacado{
+  transform: scale(1.03);
 }
 
 .card.destacado p{
