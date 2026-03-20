@@ -130,3 +130,25 @@ CARDS
 .card a:hover{
   background:#2e5a8a;
 }
+
+/* =========================
+Card destacado (el primero)
+========================= */
+.card.destacado{
+  grid-column: 1 / -1; /* ocupa toda la fila */
+  background:#1f3a5f;
+  color:white;
+}
+
+.card.destacado p{
+  color:#e0e6ed;
+}
+
+.card.destacado a{
+  background:white;
+  color:#1f3a5f;
+}
+
+.card.destacado a:hover{
+  background:#e0e6ed;
+}
