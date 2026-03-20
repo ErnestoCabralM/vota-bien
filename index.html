@@ -3,21 +3,38 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   <title>Vota bien, Perú</title>
+
+  <!-- Tipografías -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Merriweather:wght@700&display=swap" rel="stylesheet">
+
+  <!-- CSS -->
   <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
 
   <header>
     <h1>Vota bien, Perú</h1>
-    <p class="subtitle">Aquí están todas las apps que necesitas para tener un voto informado.</p>
-    <input type="text" id="search" placeholder="Buscar herramienta...">
+    <p class="subtitle">
+      Aquí están todas las apps y plataformas que necesitas para tomar una decisión informada en estas elecciones.
+    </p>
+
+    <input 
+      type="text" 
+      id="search" 
+      placeholder="Buscar herramienta..."
+    >
   </header>
 
   <section class="filters" id="filters"></section>
 
-  <section class="container" id="cards"></section>
+  <main>
+    <section class="container" id="cards"></section>
+  </main>
 
   <script src="script.js"></script>
+
 </body>
 </html>
