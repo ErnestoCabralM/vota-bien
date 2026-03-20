@@ -1,46 +1,60 @@
-body {
-  padding: 8px 12px;
-  border: none;
-  border-radius: 6px;
-  background: #ddd;
-  cursor: pointer;
+/* Base */
+
+.filters button.active{
+  background:#1f3a5f;
+  color:white;
 }
 
-.filters button.active {
-  background: #007BFF;
-  color: white;
+/* Grid */
+.container{
+  display:grid;
+  grid-template-columns:repeat(auto-fit, minmax(260px, 1fr));
+  gap:20px;
+  padding:25px;
+  max-width:1100px;
+  margin:auto;
 }
 
-.container {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 20px;
-  padding: 20px;
-  max-width: 1000px;
-  margin: auto;
+/* Cards */
+.card{
+  background:white;
+  border-radius:12px;
+  padding:18px;
+  border:1px solid #e5e7eb;
+  box-shadow:0 2px 6px rgba(0,0,0,0.05);
+  transition:transform 0.15s ease, box-shadow 0.15s ease;
 }
 
-.card {
-  background: white;
-  border-radius: 12px;
-  padding: 20px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+.card:hover{
+  transform:translateY(-4px);
+  box-shadow:0 8px 18px rgba(0,0,0,0.08);
 }
 
-.card h3 {
-  margin-top: 0;
+.card h3{
+  font-family:"Merriweather", serif;
+  font-size:18px;
+  margin:0 0 8px 0;
 }
 
-.card p {
-  color: #555;
+.card p{
+  font-size:14px;
+  color:#555;
+  line-height:1.5;
 }
 
-.card a {
-  display: inline-block;
-  margin-top: 10px;
-  text-decoration: none;
-  color: white;
-  background: #007BFF;
-  padding: 8px 12px;
-  border-radius: 6px;
+.card a{
+  display:inline-block;
+  margin-top:12px;
+  font-weight:600;
+  text-decoration:none;
+  color:white;
+  background:#1f3a5f;
+  padding:8px 14px;
+  border-radius:6px;
+  font-size:14px;
 }
+
+.card a:hover{
+  background:#2e5a8a;
+}
+
