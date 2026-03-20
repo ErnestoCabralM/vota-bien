@@ -1,8 +1,8 @@
 [
   {
-    "nombre": "ONPE Resultados",
-    "descripcion": "Resultados oficiales en tiempo real",
-    "url": "https://www.onpe.gob.pe",
+    "nombre": "Club Otorongo",
+    "descripcion": "Conoce los antecedentes de todos los candidatos",
+    "url": "https://otorongo.club/",
     "categoria": "Resultados",
     "destacado": true,
     "imagen": "img/logoprueba.jpeg"
