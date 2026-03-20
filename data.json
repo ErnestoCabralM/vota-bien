@@ -4,14 +4,16 @@
     "descripcion": "Resultados oficiales en tiempo real",
     "url": "https://www.onpe.gob.pe",
     "categoria": "Resultados",
-    "destacado": true
+    "destacado": true,
+    "imagen": "img/logoprueba.jpeg"
   },
   {
     "nombre": "ONPE Resultados",
     "descripcion": "Resultados oficiales en tiempo real",
     "url": "https://www.onpe.gob.pe",
     "categoria": "Resultados",
-    "destacado": true
+    "destacado": true,
+    "imagen": "img/logoprueba.jpeg"
   },
   {
     "nombre": "El mal menor",
@@ -26,13 +28,15 @@
     "descripcion": "Periodismo de datos sobre política",
     "url": "https://convoca.pe",
     "categoria": "Investigación",
-    "destacado": false
+    "destacado": false,
+    "imagen": "img/logoprueba.jpeg"
   },
   {
     "nombre": "Convoca",
     "descripcion": "Periodismo de datos sobre política",
     "url": "https://convoca.pe",
     "categoria": "Investigación",
-    "destacado": false
+    "destacado": false,
+    "imagen": "img/logoprueba.jpeg"
   }
 ]
