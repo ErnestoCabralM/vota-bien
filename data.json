@@ -8,8 +8,8 @@
     "imagen": "img/logoprueba.jpeg"
   },
   {
-    "nombre": "ONPE Resultados",
-    "descripcion": "Resultados oficiales en tiempo real",
+    "nombre": "Compara Encuestas",
+    "descripcion": "Ipsos, Datum, IEP y CPI en un solo sitio",
     "url": "https://www.onpe.gob.pe",
     "categoria": "Resultados",
     "destacado": true,
