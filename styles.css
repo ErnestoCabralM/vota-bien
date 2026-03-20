@@ -113,11 +113,18 @@ DESTACADOS (fila superior)
 
 .destacados{
   display:grid;
-  grid-template-columns:repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(2, 300px); /* ancho fijo */
+  justify-content: center; /* los centra */
   gap:20px;
   max-width:1100px;
   margin:30px auto 10px;
   padding:0 25px;
+}
+
+@media (max-width: 700px){
+  .destacados{
+    grid-template-columns: 1fr; /* en celular se apilan */
+  }
 }
 
 /* =========================
