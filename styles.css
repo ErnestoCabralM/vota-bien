@@ -5,7 +5,7 @@ BASE + HEADER
 body{
   font-family: "Inter", sans-serif;
   margin:0;
-  background:#FFFFFF;
+  background:#E4E4E4;
   color:#222;
 }
 
@@ -136,7 +136,7 @@ Card destacado (el primero)
 ========================= */
 .card.destacado{
   grid-column: 1 / -1; /* ocupa toda la fila */
-  background:#1f3a5f;
+  background:#FFE939;
   color:white;
 }
 
@@ -146,7 +146,7 @@ Card destacado (el primero)
 
 .card.destacado a{
   background:white;
-  color:#1f3a5f;
+  color:#00DA60;
 }
 
 .card.destacado a:hover{
