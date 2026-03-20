@@ -26,5 +26,12 @@
     "url": "https://convoca.pe",
     "categoria": "Investigación",
     "destacado": false
+  },
+  {
+    "nombre": "Convoca",
+    "descripcion": "Periodismo de datos sobre política",
+    "url": "https://convoca.pe",
+    "categoria": "Investigación",
+    "destacado": false
   }
 ]
