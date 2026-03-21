@@ -63,6 +63,15 @@
     "imagen": "img/decide-voto.png"
   },
   {
+    "nombre": "Claridad",
+    "descripcion": "Revisa gastos de campaña",
+    "autor": "ONPE",
+    "url": "https://claridadportal.onpe.gob.pe/",
+    "categoria": "Gastos de campaña",
+    "destacado": false,
+    "imagen": "img/claridad.png"
+  },
+  {
     "nombre": "Votar es clave",
     "descripcion": "Info general para jóvenes",
     "autor": "PUCP",
