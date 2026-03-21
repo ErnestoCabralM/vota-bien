@@ -70,5 +70,14 @@
     "categoria": "Otros",
     "destacado": false,
     "imagen": "img/votar-clave.png"
+  },
+  {
+    "nombre": "Revisa tu candidato",
+    "descripcion": "Trayectoria, sentencias y más",
+    "autor": "Transparencia y otros",
+    "url": "https://revisatucandidato.pe/",
+    "categoria": "Antecedentes",
+    "destacado": false,
+    "imagen": "img/revisa-candidato.jpg"
   }
 ]
