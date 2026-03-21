@@ -115,5 +115,14 @@
     "categoria": "Otros",
     "destacado": false,
     "imagen": "img/arma-eleccion.png"
+  },
+  {
+    "nombre": "Simulador de voto - EC",
+    "descripcion": "Aprende a marcar la cédula",
+    "autor": "Idea Internacional y El Comercio",
+    "url": "https://simuladordevotoperu.com/",
+    "categoria": "Simulador",
+    "destacado": false,
+    "imagen": "img/simulador-ec.png"
   }
 ]
