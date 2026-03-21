@@ -61,5 +61,14 @@
     "categoria": "Plan de gobierno",
     "destacado": false,
     "imagen": "img/decide-voto.png"
+  },
+  {
+    "nombre": "Votar es clave",
+    "descripcion": "Info general para jóvenes",
+    "autor": "PUCP",
+    "url": "https://votaresclave.pucp.edu.pe/",
+    "categoria": "Otros",
+    "destacado": false,
+    "imagen": "img/votar-clave.png"
   }
 ]
