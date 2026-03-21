@@ -106,5 +106,14 @@
     "categoria": "Antecedentes",
     "destacado": false,
     "imagen": "img/checa-bien.jpg"
+  },
+  {
+    "nombre": "Arma tu elección",
+    "descripcion": "Las reglas democráticas en un juego",
+    "autor": "BCP",
+    "url": "https://unmejorperu.pe/",
+    "categoria": "Otros",
+    "destacado": false,
+    "imagen": "img/arma-eleccion.png"
   }
 ]
