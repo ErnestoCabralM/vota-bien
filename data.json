@@ -151,5 +151,14 @@
     "categoria": "Antecedentes",
     "destacado": false,
     "imagen": "img/conoce-candidatos.png"
+  },
+  {
+    "nombre": "Elección Clara",
+    "descripcion": "Revisa puntajes de los postulantes",
+    "autor": "Alejandro Rodriguez Romero",
+    "url": "https://www.eleccionclara.pe/",
+    "categoria": "Antecedentes",
+    "destacado": false,
+    "imagen": "img/eleccion-clara.png"
   }
 ]
