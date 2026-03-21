@@ -88,5 +88,14 @@
     "categoria": "Plan de gobierno",
     "destacado": false,
     "imagen": "img/planometro.png"
+  },
+  {
+    "nombre": "Checa bien",
+    "descripcion": "Propuestas, trayectoria e investigaciones",
+    "autor": "W. Benavente, J. Piere, Romaid",
+    "url": "https://www.checabien.com/",
+    "categoria": "Antecedentes",
+    "destacado": false,
+    "imagen": "img/checa-bien.jpg"
   }
 ]
