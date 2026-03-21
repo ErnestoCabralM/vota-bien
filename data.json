@@ -79,5 +79,14 @@
     "categoria": "Antecedentes",
     "destacado": false,
     "imagen": "img/revisa-candidato.jpg"
+  },
+  {
+    "nombre": "Planómetro 2026",
+    "descripcion": "Visualiza los planes de gobierno",
+    "autor": "Noam López",
+    "url": "https://noamlv.github.io/PlanesPeru26/",
+    "categoria": "Plan de gobierno",
+    "destacado": false,
+    "imagen": "img/planometro.png"
   }
 ]
