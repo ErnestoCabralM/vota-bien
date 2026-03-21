@@ -124,5 +124,14 @@
     "categoria": "Simulador",
     "destacado": false,
     "imagen": "img/simulador-ec.png"
+  },
+  {
+    "nombre": "Simulador de voto - RPP",
+    "descripcion": "El poder en tus manos",
+    "autor": "RPP",
+    "url": "https://rpp.pe/simulador-voto-2026",
+    "categoria": "Simulador",
+    "destacado": false,
+    "imagen": "img/simulador-rpp.png"
   }
 ]
