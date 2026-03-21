@@ -133,5 +133,23 @@
     "categoria": "Simulador",
     "destacado": false,
     "imagen": "img/simulador-rpp.png"
+  },
+  {
+    "nombre": "Simulador de voto - LR",
+    "descripcion": "Practica tu voto",
+    "autor": "La República",
+    "url": "https://larepublica.pe/elecciones/simulador-voto",
+    "categoria": "Simulador",
+    "destacado": false,
+    "imagen": "img/simulador-lr.png"
+  },
+  {
+    "nombre": "Conoce los candidatos",
+    "descripcion": "Aliados, opositores y propuestas",
+    "autor": "50+Uno",
+    "url": "https://minicandidatos.pe/candidatos",
+    "categoria": "Antecedentes",
+    "destacado": false,
+    "imagen": "img/conoce-candidatos.png"
   }
 ]
