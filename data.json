@@ -28,7 +28,7 @@
   },
   {
     "nombre": "Hechos y no palabras",
-    "descripcion": "Las votaciones de los congresistas",
+    "descripcion": "Votaciones de congresistas",
     "autor": "GIES PUCP",
     "url": "https://hechosynopalabras.pe/",
     "categoria": "Antecedentes",
@@ -46,7 +46,7 @@
   },
   {
     "nombre": "Chapa tu candidato",
-    "descripcion": "Compara planes de gobierno con IA",
+    "descripcion": "IA analiza planes de gobierno",
     "autor": "Sin identificar",
     "url": "https://chapatucandidato.com/",
     "categoria": "Plan de gobierno",
