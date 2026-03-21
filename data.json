@@ -173,7 +173,7 @@
   {
     "nombre": "Reporte de IA",
     "descripcion": "Revisa si usaron IA en sus planes",
-    "autor": "R. Monjaras, F. Ramírez, F. Chocano",
+    "autor": "Roberto Monjaras y otros",
     "url": "https://fiorellarmartins.github.io/reporte-ia-planes-2026/",
     "categoria": "Plan de gobierno",
     "destacado": false,
@@ -181,8 +181,8 @@
   },
   {
     "nombre": "Vota bien",
-    "descripcion": "Compara antecedentes y propuestas",
-    "autor": "A. Villazana, B. Cabrera, P. Fernández",
+    "descripcion": "Antecedentes y propuestas",
+    "autor": "Anthony Villazana y otros",
     "url": "https://votabienperu.com/",
     "categoria": "Antecedentes",
     "destacado": false,
