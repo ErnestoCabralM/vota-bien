@@ -43,5 +43,14 @@
     "categoria": "Simulador",
     "destacado": false,
     "imagen": "img/capibarismo.png"
+  },
+  {
+    "nombre": "Chapa tu candidato",
+    "descripcion": "Compara planes de gobierno con IA",
+    "autor": "Sin identificar",
+    "url": "https://chapatucandidato.com/",
+    "categoria": "Plan de gobierno",
+    "destacado": false,
+    "imagen": "img/chapa-candidato.png"
   }
 ]
