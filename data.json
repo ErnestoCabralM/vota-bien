@@ -160,5 +160,14 @@
     "categoria": "Antecedentes",
     "destacado": false,
     "imagen": "img/eleccion-clara.png"
+  },
+  {
+    "nombre": "Simulador electoral",
+    "descripcion": "¿Cómo será el Congreso?",
+    "autor": "Matías Faure",
+    "url": "https://simulador.matiasfaure.com/",
+    "categoria": "Simulador",
+    "destacado": false,
+    "imagen": "img/simulador-electoral.png"
   }
 ]
