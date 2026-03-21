@@ -52,5 +52,14 @@
     "categoria": "Plan de gobierno",
     "destacado": false,
     "imagen": "img/chapa-candidato.png"
+  },
+  {
+    "nombre": "Decide tu voto",
+    "descripcion": "Test de afinidad con candidatos",
+    "autor": "Miguel Angel Tello Silva",
+    "url": "https://www.tuvotoperu.com/",
+    "categoria": "Plan de gobierno",
+    "destacado": false,
+    "imagen": "img/decide-voto.png"
   }
 ]
