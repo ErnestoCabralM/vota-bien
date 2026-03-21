@@ -169,5 +169,23 @@
     "categoria": "Simulador",
     "destacado": false,
     "imagen": "img/simulador-electoral.png"
+  },
+  {
+    "nombre": "Reporte de IA",
+    "descripcion": "Revisa si usaron IA en sus planes",
+    "autor": "R. Monjaras, F. Ramírez, F. Chocano",
+    "url": "https://fiorellarmartins.github.io/reporte-ia-planes-2026/",
+    "categoria": "Plan de gobierno",
+    "destacado": false,
+    "imagen": "img/reportes-ia.png"
+  },
+  {
+    "nombre": "Vota bien",
+    "descripcion": "Compara antecedentes y propuestas",
+    "autor": "A. Villazana, B. Cabrera, P. Fernández",
+    "url": "https://votabienperu.com/",
+    "categoria": "Antecedentes",
+    "destacado": false,
+    "imagen": "img/vota-bien.png"
   }
 ]
