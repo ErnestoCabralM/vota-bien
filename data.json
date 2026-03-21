@@ -19,29 +19,29 @@
   },
   {
     "nombre": "El mal menor",
-    "descripcion": "Descubre tu mal menor o candidato ideal",
+    "descripcion": "Descubre a tu candidato ideal",
     "autor": "J. Burga, P. Izquierdo, P. Aguilar, A. Burga",
     "url": "https://elmalmenor.com/",
-    "categoria": "Investigación",
+    "categoria": "Planes de gobierno",
     "destacado": false,
     "imagen": "img/logoprueba.jpeg"
   },
   {
     "nombre": "Hechos y no palabras",
-    "descripcion": "Revisa las votaciones de los congresistas",
+    "descripcion": "Las votaciones de los congresistas",
     "autor": "GIES PUCP",
     "url": "https://hechosynopalabras.pe/",
-    "categoria": "Investigación",
+    "categoria": "Antecedentes",
     "destacado": false,
-    "imagen": "img/logoprueba.jpeg"
+    "imagen": "img/hechos-palabras.png"
   },
   {
     "nombre": "Capibarismo",
-    "descripcion": "Simulador de elecciones: Peru 2026",
+    "descripcion": "Simulador de elecciones",
     "autor": "Sin identificar",
     "url": "https://capibarismo.com/",
-    "categoria": "Investigación",
+    "categoria": "Simulador",
     "destacado": false,
-    "imagen": "img/logoprueba.jpeg"
+    "imagen": "img/capibarismo.png"
   }
 ]
