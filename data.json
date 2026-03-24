@@ -36,24 +36,6 @@
     "imagen": "img/hechos-palabras.png"
   },
   {
-    "nombre": "Capibarismo",
-    "descripcion": "Simulador de elecciones",
-    "autor": "Sin identificar",
-    "url": "https://capibarismo.com/",
-    "categoria": "Simulador",
-    "destacado": false,
-    "imagen": "img/capibarismo.png"
-  },
-  {
-    "nombre": "Chapa tu candidato",
-    "descripcion": "IA analiza planes de gobierno",
-    "autor": "Sin identificar",
-    "url": "https://chapatucandidato.com/",
-    "categoria": "Plan de gobierno",
-    "destacado": false,
-    "imagen": "img/chapa-candidato.png"
-  },
-  {
     "nombre": "Decide tu voto",
     "descripcion": "Test de afinidad con candidatos",
     "autor": "Miguel Angel Tello Silva",
