@@ -187,5 +187,14 @@
     "categoria": "Antecedentes",
     "destacado": false,
     "imagen": "img/vota-bien.png"
+  },
+  {
+    "nombre": "Aprende cómo votar",
+    "descripcion": "Practica cómo emitir tu voto",
+    "autor": "Asociación Transparencia",
+    "url": "https://votabien.pe/",
+    "categoria": "Simulador",
+    "destacado": false,
+    "imagen": "img/aprende-como-votar.png"
   }
 ]
