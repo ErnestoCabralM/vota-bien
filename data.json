@@ -196,5 +196,14 @@
     "categoria": "Simulador",
     "destacado": false,
     "imagen": "img/aprende-como-votar.png"
+  },
+  {
+    "nombre": "Electrómetro",
+    "descripcion": "Test de afinidad con candidatos",
+    "autor": "Esteban Lazo y José Valqui",
+    "url": "https://decide.pe/",
+    "categoria": "Plan de gobierno",
+    "destacado": false,
+    "imagen": "img/electometro.png"
   }
 ]
