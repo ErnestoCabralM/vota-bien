@@ -187,5 +187,23 @@
     "categoria": "Plan de gobierno",
     "destacado": false,
     "imagen": "img/electometro.png"
+  },
+  {
+    "nombre": "Compara candidatos",
+    "descripcion": "Explora sus posturas en temas clave",
+    "autor": "RPP",
+    "url": "https://rpp.pe/candidatos-elecciones-presidenciales-peru-2026?topic=economia",
+    "categoria": "Plan de gobierno",
+    "destacado": false,
+    "imagen": "img/compara_candidatos.png"
+  },
+  {
+    "nombre": "Agente electoral",
+    "descripcion": "Pregúntale a la IA sobre candidatos",
+    "autor": "RPP",
+    "url": "https://rpp.pe/agente-electoral-elecciones-2026",
+    "categoria": "Otros",
+    "destacado": false,
+    "imagen": "img/compara_candidatos.png"
   }
 ]
