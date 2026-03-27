@@ -190,7 +190,7 @@
   },
   {
     "nombre": "Compara candidatos",
-    "descripcion": "Explora sus posturas en temas clave",
+    "descripcion": "Explora posturas en temas clave",
     "autor": "RPP",
     "url": "https://rpp.pe/candidatos-elecciones-presidenciales-peru-2026?topic=economia",
     "categoria": "Plan de gobierno",
@@ -199,7 +199,7 @@
   },
   {
     "nombre": "Agente electoral",
-    "descripcion": "Pregúntale a la IA sobre candidatos",
+    "descripcion": "Pregúntale a la IA",
     "autor": "RPP",
     "url": "https://rpp.pe/agente-electoral-elecciones-2026",
     "categoria": "Otros",
@@ -217,7 +217,7 @@
   },
   {
     "nombre": "Mira Bien",
-    "descripcion": "Compara planes desde los DD.HH.",
+    "descripcion": "Planes y DD.HH.",
     "autor": "Amnistía Internacional",
     "url": "https://mirabien.com.pe/",
     "categoria": "Plan de gobierno",
