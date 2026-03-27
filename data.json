@@ -205,5 +205,14 @@
     "categoria": "Otros",
     "destacado": false,
     "imagen": "img/compara_candidatos.png"
+  },
+  {
+    "nombre": "Votómetro",
+    "descripcion": "Test de afinidad con candidatos",
+    "autor": "Oscar Cuya y otros",
+    "url": "https://votometrolat.com/",
+    "categoria": "Plan de gobierno",
+    "destacado": false,
+    "imagen": "img/votometro.png"
   }
 ]
