@@ -223,5 +223,14 @@
     "categoria": "Plan de gobierno",
     "destacado": false,
     "imagen": "img/mira_bien.png"
+  },
+  {
+    "nombre": "Vota Bien Causa",
+    "descripcion": "Test de afinidad con candidatos",
+    "autor": "AAngelo Palomino y Gimena Valeria",
+    "url": "http://votabiencausa.com/",
+    "categoria": "Plan de gobierno",
+    "destacado": false,
+    "imagen": "img/vota_bien_causa.png"
   }
 ]
