@@ -214,5 +214,14 @@
     "categoria": "Plan de gobierno",
     "destacado": false,
     "imagen": "img/votometro.png"
+  },
+  {
+    "nombre": "Mira Bien",
+    "descripcion": "Compara planes desde los DD.HH.",
+    "autor": "Amnistía Internacional",
+    "url": "https://mirabien.com.pe/",
+    "categoria": "Plan de gobierno",
+    "destacado": false,
+    "imagen": "img/mira_bien.png"
   }
 ]
