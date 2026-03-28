@@ -67,7 +67,11 @@ function filtrar() {
   const texto = document.getElementById('search').value.toLowerCase();
 
   const filtrados = dataGlobal.filter(item => {
-    const coincideTexto = item.nombre.toLowerCase().includes(texto) || item.descripcion.toLowerCase().includes(texto);
+    const coincideTexto =
+      item.nombre.toLowerCase().includes(texto) ||
+      item.descripcion.toLowerCase().includes(texto) ||
+      (item.autor && item.autor.toLowerCase().includes(texto)) ||
+      item.categoria.toLowerCase().includes(texto);
     const coincideCategoria = categoriaActiva === 'Todos' || item.categoria === categoriaActiva;
 
     return coincideTexto && coincideCategoria;
