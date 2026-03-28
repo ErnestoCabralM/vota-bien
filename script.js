@@ -81,3 +81,32 @@ function filtrar() {
 }
 
 document.getElementById('search').addEventListener('input', filtrar);
+
+function iniciarCountdown() {
+
+  // Fecha objetivo: 12 abril 2026, 07:00 Lima (UTC-5)
+  const fechaObjetivo = new Date("2026-04-12T07:00:00-05:00").getTime();
+
+  function actualizar() {
+    const ahora = new Date().getTime();
+    const diferencia = fechaObjetivo - ahora;
+
+    if (diferencia <= 0) {
+      document.getElementById("countdown").innerHTML = "¡Ya es día de votación!";
+      return;
+    }
+
+    const dias = Math.floor(diferencia / (1000 * 60 * 60 * 24));
+    const horas = Math.floor((diferencia / (1000 * 60 * 60)) % 24);
+    const minutos = Math.floor((diferencia / (1000 * 60)) % 60);
+    const segundos = Math.floor((diferencia / 1000) % 60);
+
+    document.getElementById("countdown").innerHTML =
+      `Faltan ${dias}d ${horas}h ${minutos}m ${segundos}s`;
+  }
+
+  actualizar();
+  setInterval(actualizar, 1000);
+}
+
+iniciarCountdown();
