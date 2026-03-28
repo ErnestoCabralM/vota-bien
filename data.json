@@ -286,5 +286,14 @@
     "categoria": "Antecedentes",
     "destacado": false,
     "imagen": "img/sabes_quien_elegir.png"
+  },
+  {
+    "nombre": "Tumi",
+    "descripcion": "Pregúntale a la IA",
+    "autor": "GoberLab",
+    "url": "https://goberlab.org/tumi",
+    "categoria": "Otros",
+    "destacado": false,
+    "imagen": "img/tumi.png"
   }
 ]
