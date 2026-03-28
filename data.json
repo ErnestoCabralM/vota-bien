@@ -235,11 +235,56 @@
   },
   {
     "nombre": "Empatriados",
-    "descripcion": "Las funciones del nuevo Congreso",
+    "descripcion": "Funciones del nuevo Congreso",
     "autor": "Patria C Academia Ciudadana",
     "url": "https://www.testempatriados.com/",
     "categoria": "Otros",
     "destacado": false,
     "imagen": "img/empatriados.png"
+  },
+  {
+    "nombre": "Álbum Elecciones 2026",
+    "descripcion": "Un juego para informarte",
+    "autor": "Incaslop",
+    "url": "https://album.incaslop.online/",
+    "categoria": "Antecedentes",
+    "destacado": false,
+    "imagen": "img/album_elecciones.png"
+  },
+  {
+    "nombre": "Cédula de sufragio",
+    "descripcion": "Descárgalas y practica",
+    "autor": "ONPE",
+    "url": "https://eg2026.onpe.gob.pe/cedula/cedula-de-sufragio/",
+    "categoria": "Simulador",
+    "destacado": false,
+    "imagen": "img/cedula_sufragio.png"
+  },
+  {
+    "nombre": "Monitor Legislativo",
+    "descripcion": "Votaciones de los congresistas",
+    "autor": "Proyecto ciudadano independiente",
+    "url": "https://asivotaron.org.pe/",
+    "categoria": "Antecedentes",
+    "destacado": false,
+    "imagen": "img/monitor_legislativo.png"
+  },
+  {
+    "nombre": "¿Qué proponen?",
+    "descripcion": "Guía para comparar planes",
+    "autor": "El Comercio",
+    "url": "https://elcomercio.pe/politica/elecciones-peru-2026-planes-de-gobierno-propuestas-comparacion-fact-checking-candidatos-presidenciales-especdis-noticia/?ref=ecr",
+    "categoria": "Plan de gobierno",
+    "destacado": false,
+    "imagen": "img/que_proponen.png"
+  },
+  {
+    "nombre": "¿Sabes a quién elegir?",
+    "descripcion": "Análisis de las hojas de vida",
+    "autor": "El Comercio",
+    "url": "https://elcomercio.pe/politica/elecciones-peru-2026-candidatos-presidenciales-hojas-de-vida-especdis-noticia/?ref=ecr",
+    "categoria": "Antecedentes",
+    "destacado": false,
+    "imagen": "img/sabes_quien_elegir.png"
   }
 ]
