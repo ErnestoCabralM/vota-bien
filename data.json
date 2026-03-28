@@ -227,10 +227,19 @@
   {
     "nombre": "Vota Bien Causa",
     "descripcion": "Test de afinidad con candidatos",
-    "autor": "AAngelo Palomino y Gimena Valeria",
+    "autor": "Angelo Palomino y Gimena Valeria",
     "url": "http://votabiencausa.com/",
     "categoria": "Plan de gobierno",
     "destacado": false,
     "imagen": "img/vota_bien_causa.png"
+  },
+  {
+    "nombre": "Empatriados",
+    "descripcion": "Las funciones del nuevo Congreso",
+    "autor": "Patria C Academia Ciudadana",
+    "url": "https://www.testempatriados.com/",
+    "categoria": "Otros",
+    "destacado": false,
+    "imagen": "img/empatriados.png"
   }
 ]
