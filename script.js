@@ -102,7 +102,7 @@ function iniciarCountdown() {
     const segundos = Math.floor((diferencia / 1000) % 60);
 
     document.getElementById("countdown").innerHTML =
-      `Faltan ${dias}d ${horas}h ${minutos}m ${segundos}s`;
+      `Faltan ${dias}d ${horas}h ${minutos}m ${segundos}s para votar`;
   }
 
   actualizar();
