@@ -295,5 +295,14 @@
     "categoria": "Otros",
     "destacado": false,
     "imagen": "img/tumi.png"
+  },
+  {
+    "nombre": "Ponle Nota",
+    "descripcion": "Evalúa a los candidatos",
+    "autor": "IRI Perú",
+    "url": "https://ponlenota.iriperu.org/",
+    "categoria": "Otros",
+    "destacado": false,
+    "imagen": "img/ponle_nota.png"
   }
 ]
