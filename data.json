@@ -304,5 +304,14 @@
     "categoria": "Otros",
     "destacado": false,
     "imagen": "img/ponle_nota.png"
+  },
+  {
+    "nombre": "PerúMatch",
+    "descripcion": "Test de afinidad con candidatos",
+    "autor": "Mayté Tupac Yupanqui",
+    "url": "https://perumatch.netlify.app/",
+    "categoria": "Plan de gobierno",
+    "destacado": false,
+    "imagen": "img/peru_match.png"
   }
 ]
