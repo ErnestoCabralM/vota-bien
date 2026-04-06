@@ -313,5 +313,14 @@
     "categoria": "Plan de gobierno",
     "destacado": false,
     "imagen": "img/peru_match.png"
+  },
+  {
+    "nombre": "Observa Perú",
+    "descripcion": "Información cívica respaldada con datos.",
+    "autor": "Luis Ortiz y otros",
+    "url": "https://www.observaperu.com/",
+    "categoria": "Antecedentes",
+    "destacado": false,
+    "imagen": "img/observa_peru.png"
   }
 ]
