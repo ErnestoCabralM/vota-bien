@@ -242,6 +242,15 @@
     "destacado": false,
     "imagen": "img/claridad.png"
   },
+  {
+    "nombre": "Cédula de sufragio",
+    "descripcion": "Descárgalas y practica",
+    "autor": "ONPE",
+    "url": "https://eg2026.onpe.gob.pe/cedula/cedula-de-sufragio/",
+    "categoria": "Simulador",
+    "destacado": false,
+    "imagen": "img/cedula_sufragio.png"
+  },
     {
     "nombre": "Arma tu elección",
     "descripcion": "Juega y aprende a votar",
@@ -250,24 +259,6 @@
     "categoria": "Otros",
     "destacado": false,
     "imagen": "img/arma-eleccion.png"
-  },
-  {
-    "nombre": "Simulador de voto - EC",
-    "descripcion": "Aprende a marcar la cédula",
-    "autor": "Idea Internacional y El Comercio",
-    "url": "https://simuladordevotoperu.com/",
-    "categoria": "Simulador",
-    "destacado": false,
-    "imagen": "img/simulador-ec.png"
-  },
-  {
-    "nombre": "Simulador de voto - RPP",
-    "descripcion": "El poder en tus manos",
-    "autor": "RPP",
-    "url": "https://rpp.pe/simulador-voto-2026",
-    "categoria": "Simulador",
-    "destacado": false,
-    "imagen": "img/simulador-rpp.png"
   },
   {
     "nombre": "Simulador de voto - LR",
@@ -288,6 +279,15 @@
     "imagen": "img/compara_candidatos.png"
   },
   {
+    "nombre": "Simulador de voto - RPP",
+    "descripcion": "El poder en tus manos",
+    "autor": "RPP",
+    "url": "https://rpp.pe/simulador-voto-2026",
+    "categoria": "Simulador",
+    "destacado": false,
+    "imagen": "img/simulador-rpp.png"
+  },
+  {
     "nombre": "Agente electoral",
     "descripcion": "Pregúntale a la IA",
     "autor": "RPP",
@@ -297,15 +297,6 @@
     "imagen": "img/compara_candidatos.png"
   },
   {
-    "nombre": "Cédula de sufragio",
-    "descripcion": "Descárgalas y practica",
-    "autor": "ONPE",
-    "url": "https://eg2026.onpe.gob.pe/cedula/cedula-de-sufragio/",
-    "categoria": "Simulador",
-    "destacado": false,
-    "imagen": "img/cedula_sufragio.png"
-  },
-  {
     "nombre": "¿Qué proponen?",
     "descripcion": "Guía para comparar planes",
     "autor": "El Comercio",
@@ -313,6 +304,15 @@
     "categoria": "Plan de gobierno",
     "destacado": false,
     "imagen": "img/que_proponen.png"
+  },
+  {
+    "nombre": "Simulador de voto - EC",
+    "descripcion": "Aprende a marcar la cédula",
+    "autor": "Idea Internacional y El Comercio",
+    "url": "https://simuladordevotoperu.com/",
+    "categoria": "Simulador",
+    "destacado": false,
+    "imagen": "img/simulador-ec.png"
   },
   {
     "nombre": "¿Sabes a quién elegir?",
