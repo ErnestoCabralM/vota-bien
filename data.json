@@ -91,7 +91,7 @@
   },
   {
     "nombre": "Observa Perú",
-    "descripcion": "Información cívica respaldada con datos.",
+    "descripcion": "Datos y candidatos.",
     "autor": "Luis Ortiz y otros",
     "url": "https://www.observaperu.com/",
     "categoria": "Antecedentes",
@@ -119,7 +119,7 @@
   {
     "nombre": "Vota Bien Causa",
     "descripcion": "Test de afinidad con candidatos",
-    "autor": "Angelo Palomino y Gimena Valeria",
+    "autor": "A. Palomino y G. Valeria",
     "url": "http://votabiencausa.com/",
     "categoria": "Plan de gobierno",
     "destacado": false,
@@ -128,7 +128,7 @@
   {
     "nombre": "PerúMatch",
     "descripcion": "Test de afinidad con candidatos",
-    "autor": "Mayté Chumberiza Tupac Yupanqui",
+    "autor": "M. Chumberiza Tupac Yupanqui",
     "url": "https://perumatch.netlify.app/",
     "categoria": "Plan de gobierno",
     "destacado": false,
@@ -146,7 +146,7 @@
   {
     "nombre": "Monitor Legislativo",
     "descripcion": "Votaciones de los congresistas",
-    "autor": "Proyecto ciudadano independiente",
+    "autor": "Proyecto ciudadano",
     "url": "https://asivotaron.org.pe/",
     "categoria": "Antecedentes",
     "destacado": false,
