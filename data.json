@@ -27,15 +27,6 @@
     "imagen": "img/logoprueba.jpeg"
   },
   {
-    "nombre": "Hechos y no palabras",
-    "descripcion": "Votaciones de congresistas",
-    "autor": "GIES PUCP",
-    "url": "https://hechosynopalabras.pe/",
-    "categoria": "Antecedentes",
-    "destacado": false,
-    "imagen": "img/hechos-palabras.png"
-  },
-  {
     "nombre": "Decide tu voto",
     "descripcion": "Test de afinidad con candidatos",
     "autor": "Miguel Angel Tello Silva",
@@ -43,33 +34,6 @@
     "categoria": "Plan de gobierno",
     "destacado": false,
     "imagen": "img/decide-voto.png"
-  },
-  {
-    "nombre": "Claridad",
-    "descripcion": "Revisa gastos de campaña",
-    "autor": "ONPE",
-    "url": "https://claridadportal.onpe.gob.pe/",
-    "categoria": "Otros",
-    "destacado": false,
-    "imagen": "img/claridad.png"
-  },
-  {
-    "nombre": "Votar es clave",
-    "descripcion": "Info general para jóvenes",
-    "autor": "PUCP",
-    "url": "https://votaresclave.pucp.edu.pe/",
-    "categoria": "Otros",
-    "destacado": false,
-    "imagen": "img/votar-clave.png"
-  },
-  {
-    "nombre": "Revisa tu candidato",
-    "descripcion": "Trayectoria, sentencias y más",
-    "autor": "Transparencia y otros",
-    "url": "https://revisatucandidato.pe/",
-    "categoria": "Antecedentes",
-    "destacado": false,
-    "imagen": "img/revisa-candidato.jpg"
   },
   {
     "nombre": "Planómetro 2026",
@@ -88,51 +52,6 @@
     "categoria": "Antecedentes",
     "destacado": false,
     "imagen": "img/checa-bien.jpg"
-  },
-  {
-    "nombre": "Arma tu elección",
-    "descripcion": "Juega y aprende a votar",
-    "autor": "BCP",
-    "url": "https://unmejorperu.pe/",
-    "categoria": "Otros",
-    "destacado": false,
-    "imagen": "img/arma-eleccion.png"
-  },
-  {
-    "nombre": "Simulador de voto - EC",
-    "descripcion": "Aprende a marcar la cédula",
-    "autor": "Idea Internacional y El Comercio",
-    "url": "https://simuladordevotoperu.com/",
-    "categoria": "Simulador",
-    "destacado": false,
-    "imagen": "img/simulador-ec.png"
-  },
-  {
-    "nombre": "Simulador de voto - RPP",
-    "descripcion": "El poder en tus manos",
-    "autor": "RPP",
-    "url": "https://rpp.pe/simulador-voto-2026",
-    "categoria": "Simulador",
-    "destacado": false,
-    "imagen": "img/simulador-rpp.png"
-  },
-  {
-    "nombre": "Simulador de voto - LR",
-    "descripcion": "Practica tu voto",
-    "autor": "La República",
-    "url": "https://larepublica.pe/elecciones/simulador-voto",
-    "categoria": "Simulador",
-    "destacado": false,
-    "imagen": "img/simulador-lr.png"
-  },
-  {
-    "nombre": "Conoce los candidatos",
-    "descripcion": "Aliados, opositores y propuestas",
-    "autor": "50+Uno",
-    "url": "https://minicandidatos.pe/candidatos",
-    "categoria": "Antecedentes",
-    "destacado": false,
-    "imagen": "img/conoce-candidatos.png"
   },
   {
     "nombre": "Elección Clara",
@@ -171,13 +90,13 @@
     "imagen": "img/vota-bien.png"
   },
   {
-    "nombre": "Aprende cómo votar",
-    "descripcion": "Practica cómo emitir tu voto",
-    "autor": "Asociación Transparencia",
-    "url": "https://votabien.pe/",
-    "categoria": "Simulador",
+    "nombre": "Observa Perú",
+    "descripcion": "Información cívica respaldada con datos.",
+    "autor": "Luis Ortiz y otros",
+    "url": "https://www.observaperu.com/",
+    "categoria": "Antecedentes",
     "destacado": false,
-    "imagen": "img/aprende-como-votar.png"
+    "imagen": "img/observa_peru.png"
   },
   {
     "nombre": "Electómetro",
@@ -187,6 +106,177 @@
     "categoria": "Plan de gobierno",
     "destacado": false,
     "imagen": "img/electometro.png"
+  },
+  {
+    "nombre": "Votómetro",
+    "descripcion": "Test de afinidad con candidatos",
+    "autor": "Oscar Cuya y otros",
+    "url": "https://votometrolat.com/",
+    "categoria": "Plan de gobierno",
+    "destacado": false,
+    "imagen": "img/votometro.png"
+  },
+  {
+    "nombre": "Vota Bien Causa",
+    "descripcion": "Test de afinidad con candidatos",
+    "autor": "Angelo Palomino y Gimena Valeria",
+    "url": "http://votabiencausa.com/",
+    "categoria": "Plan de gobierno",
+    "destacado": false,
+    "imagen": "img/vota_bien_causa.png"
+  },
+  {
+    "nombre": "PerúMatch",
+    "descripcion": "Test de afinidad con candidatos",
+    "autor": "Mayté Chumberiza Tupac Yupanqui",
+    "url": "https://perumatch.netlify.app/",
+    "categoria": "Plan de gobierno",
+    "destacado": false,
+    "imagen": "img/peru_match.png"
+  },
+  {
+    "nombre": "Empatriados",
+    "descripcion": "Funciones del nuevo Congreso",
+    "autor": "Patria C Academia Ciudadana",
+    "url": "https://www.testempatriados.com/",
+    "categoria": "Otros",
+    "destacado": false,
+    "imagen": "img/empatriados.png"
+  },
+  {
+    "nombre": "Monitor Legislativo",
+    "descripcion": "Votaciones de los congresistas",
+    "autor": "Proyecto ciudadano independiente",
+    "url": "https://asivotaron.org.pe/",
+    "categoria": "Antecedentes",
+    "destacado": false,
+    "imagen": "img/monitor_legislativo.png"
+  },
+  {
+    "nombre": "Tumi",
+    "descripcion": "Pregúntale a la IA",
+    "autor": "GoberLab",
+    "url": "https://goberlab.org/tumi",
+    "categoria": "Otros",
+    "destacado": false,
+    "imagen": "img/tumi.png"
+  },
+  {
+    "nombre": "Álbum Elecciones 2026",
+    "descripcion": "Un juego para informarte",
+    "autor": "Incaslop",
+    "url": "https://album.incaslop.online/",
+    "categoria": "Antecedentes",
+    "destacado": false,
+    "imagen": "img/album_elecciones.png"
+  },
+  {
+    "nombre": "Ponle Nota",
+    "descripcion": "Evalúa a los candidatos",
+    "autor": "IRI Perú",
+    "url": "https://ponlenota.iriperu.org/",
+    "categoria": "Otros",
+    "destacado": false,
+    "imagen": "img/ponle_nota.png"
+  },
+  {
+    "nombre": "Votar es clave",
+    "descripcion": "Info general para jóvenes",
+    "autor": "PUCP",
+    "url": "https://votaresclave.pucp.edu.pe/",
+    "categoria": "Otros",
+    "destacado": false,
+    "imagen": "img/votar-clave.png"
+  },
+  {
+    "nombre": "Hechos y no palabras",
+    "descripcion": "Votaciones de congresistas",
+    "autor": "GIES PUCP",
+    "url": "https://hechosynopalabras.pe/",
+    "categoria": "Antecedentes",
+    "destacado": false,
+    "imagen": "img/hechos-palabras.png"
+  },
+  {
+    "nombre": "Revisa tu candidato",
+    "descripcion": "Trayectoria, sentencias y más",
+    "autor": "Transparencia y otros",
+    "url": "https://revisatucandidato.pe/",
+    "categoria": "Antecedentes",
+    "destacado": false,
+    "imagen": "img/revisa-candidato.jpg"
+  },
+  {
+    "nombre": "Conoce los candidatos",
+    "descripcion": "Aliados, opositores y propuestas",
+    "autor": "50+Uno",
+    "url": "https://minicandidatos.pe/candidatos",
+    "categoria": "Antecedentes",
+    "destacado": false,
+    "imagen": "img/conoce-candidatos.png"
+  },
+  {
+    "nombre": "Aprende cómo votar",
+    "descripcion": "Practica cómo emitir tu voto",
+    "autor": "Asociación Transparencia",
+    "url": "https://votabien.pe/",
+    "categoria": "Simulador",
+    "destacado": false,
+    "imagen": "img/aprende-como-votar.png"
+  },
+  {
+    "nombre": "Mira Bien",
+    "descripcion": "Planes de gobierno y DD.HH.",
+    "autor": "Amnistía Internacional",
+    "url": "https://mirabien.com.pe/",
+    "categoria": "Plan de gobierno",
+    "destacado": false,
+    "imagen": "img/mira_bien.png"
+  },
+  {
+    "nombre": "Claridad",
+    "descripcion": "Revisa gastos de campaña",
+    "autor": "ONPE",
+    "url": "https://claridadportal.onpe.gob.pe/",
+    "categoria": "Otros",
+    "destacado": false,
+    "imagen": "img/claridad.png"
+  },
+    {
+    "nombre": "Arma tu elección",
+    "descripcion": "Juega y aprende a votar",
+    "autor": "BCP",
+    "url": "https://unmejorperu.pe/",
+    "categoria": "Otros",
+    "destacado": false,
+    "imagen": "img/arma-eleccion.png"
+  },
+  {
+    "nombre": "Simulador de voto - EC",
+    "descripcion": "Aprende a marcar la cédula",
+    "autor": "Idea Internacional y El Comercio",
+    "url": "https://simuladordevotoperu.com/",
+    "categoria": "Simulador",
+    "destacado": false,
+    "imagen": "img/simulador-ec.png"
+  },
+  {
+    "nombre": "Simulador de voto - RPP",
+    "descripcion": "El poder en tus manos",
+    "autor": "RPP",
+    "url": "https://rpp.pe/simulador-voto-2026",
+    "categoria": "Simulador",
+    "destacado": false,
+    "imagen": "img/simulador-rpp.png"
+  },
+  {
+    "nombre": "Simulador de voto - LR",
+    "descripcion": "Practica tu voto",
+    "autor": "La República",
+    "url": "https://larepublica.pe/elecciones/simulador-voto",
+    "categoria": "Simulador",
+    "destacado": false,
+    "imagen": "img/simulador-lr.png"
   },
   {
     "nombre": "Compara candidatos",
@@ -207,51 +297,6 @@
     "imagen": "img/compara_candidatos.png"
   },
   {
-    "nombre": "Votómetro",
-    "descripcion": "Test de afinidad con candidatos",
-    "autor": "Oscar Cuya y otros",
-    "url": "https://votometrolat.com/",
-    "categoria": "Plan de gobierno",
-    "destacado": false,
-    "imagen": "img/votometro.png"
-  },
-  {
-    "nombre": "Mira Bien",
-    "descripcion": "Planes de gobierno y DD.HH.",
-    "autor": "Amnistía Internacional",
-    "url": "https://mirabien.com.pe/",
-    "categoria": "Plan de gobierno",
-    "destacado": false,
-    "imagen": "img/mira_bien.png"
-  },
-  {
-    "nombre": "Vota Bien Causa",
-    "descripcion": "Test de afinidad con candidatos",
-    "autor": "Angelo Palomino y Gimena Valeria",
-    "url": "http://votabiencausa.com/",
-    "categoria": "Plan de gobierno",
-    "destacado": false,
-    "imagen": "img/vota_bien_causa.png"
-  },
-  {
-    "nombre": "Empatriados",
-    "descripcion": "Funciones del nuevo Congreso",
-    "autor": "Patria C Academia Ciudadana",
-    "url": "https://www.testempatriados.com/",
-    "categoria": "Otros",
-    "destacado": false,
-    "imagen": "img/empatriados.png"
-  },
-  {
-    "nombre": "Álbum Elecciones 2026",
-    "descripcion": "Un juego para informarte",
-    "autor": "Incaslop",
-    "url": "https://album.incaslop.online/",
-    "categoria": "Antecedentes",
-    "destacado": false,
-    "imagen": "img/album_elecciones.png"
-  },
-  {
     "nombre": "Cédula de sufragio",
     "descripcion": "Descárgalas y practica",
     "autor": "ONPE",
@@ -259,15 +304,6 @@
     "categoria": "Simulador",
     "destacado": false,
     "imagen": "img/cedula_sufragio.png"
-  },
-  {
-    "nombre": "Monitor Legislativo",
-    "descripcion": "Votaciones de los congresistas",
-    "autor": "Proyecto ciudadano independiente",
-    "url": "https://asivotaron.org.pe/",
-    "categoria": "Antecedentes",
-    "destacado": false,
-    "imagen": "img/monitor_legislativo.png"
   },
   {
     "nombre": "¿Qué proponen?",
@@ -286,41 +322,5 @@
     "categoria": "Antecedentes",
     "destacado": false,
     "imagen": "img/sabes_quien_elegir.png"
-  },
-  {
-    "nombre": "Tumi",
-    "descripcion": "Pregúntale a la IA",
-    "autor": "GoberLab",
-    "url": "https://goberlab.org/tumi",
-    "categoria": "Otros",
-    "destacado": false,
-    "imagen": "img/tumi.png"
-  },
-  {
-    "nombre": "Ponle Nota",
-    "descripcion": "Evalúa a los candidatos",
-    "autor": "IRI Perú",
-    "url": "https://ponlenota.iriperu.org/",
-    "categoria": "Otros",
-    "destacado": false,
-    "imagen": "img/ponle_nota.png"
-  },
-  {
-    "nombre": "PerúMatch",
-    "descripcion": "Test de afinidad con candidatos",
-    "autor": "Mayté Chumberiza Tupac Yupanqui",
-    "url": "https://perumatch.netlify.app/",
-    "categoria": "Plan de gobierno",
-    "destacado": false,
-    "imagen": "img/peru_match.png"
-  },
-  {
-    "nombre": "Observa Perú",
-    "descripcion": "Información cívica respaldada con datos.",
-    "autor": "Luis Ortiz y otros",
-    "url": "https://www.observaperu.com/",
-    "categoria": "Antecedentes",
-    "destacado": false,
-    "imagen": "img/observa_peru.png"
   }
 ]
