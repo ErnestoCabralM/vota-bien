@@ -36,13 +36,13 @@
     "imagen": "img/decide-voto.png"
   },
   {
-    "nombre": "Planómetro 2026",
-    "descripcion": "Visualiza los planes de gobierno",
-    "autor": "Noam López",
-    "url": "https://noamlv.github.io/PlanesPeru26/",
+    "nombre": "Reporte de IA",
+    "descripcion": "Revisa si usaron IA en sus planes",
+    "autor": "Roberto Monjaras y otros",
+    "url": "https://fiorellarmartins.github.io/reporte-ia-planes-2026/",
     "categoria": "Plan de gobierno",
     "destacado": false,
-    "imagen": "img/planometro.png"
+    "imagen": "img/reportes-ia.png"
   },
   {
     "nombre": "Checa bien",
@@ -63,6 +63,15 @@
     "imagen": "img/eleccion-clara.png"
   },
   {
+    "nombre": "Planómetro 2026",
+    "descripcion": "Visualiza los planes de gobierno",
+    "autor": "Noam López",
+    "url": "https://noamlv.github.io/PlanesPeru26/",
+    "categoria": "Plan de gobierno",
+    "destacado": false,
+    "imagen": "img/planometro.png"
+  },
+  {
     "nombre": "Simulador electoral",
     "descripcion": "¿Cómo será el Congreso?",
     "autor": "Matías Faure",
@@ -70,15 +79,6 @@
     "categoria": "Simulador",
     "destacado": false,
     "imagen": "img/simulador-electoral.png"
-  },
-  {
-    "nombre": "Reporte de IA",
-    "descripcion": "Revisa si usaron IA en sus planes",
-    "autor": "Roberto Monjaras y otros",
-    "url": "https://fiorellarmartins.github.io/reporte-ia-planes-2026/",
-    "categoria": "Plan de gobierno",
-    "destacado": false,
-    "imagen": "img/reportes-ia.png"
   },
   {
     "nombre": "Vota bien",
