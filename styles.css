@@ -16,6 +16,9 @@ HEADER
 .site-header{
   background:#1D1D1B;
   color:white;
+  position:sticky;
+  top:0;
+  z-index:1000;
 }
 
 .header-wrap{
