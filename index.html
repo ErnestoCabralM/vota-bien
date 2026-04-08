@@ -2,15 +2,25 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>La ola desinformadora</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+  <title>La última chance</title>
 
-  <link rel="stylesheet" href="styles.css">
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-V9YYNV86JC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-V9YYNV86JC');
+</script>
 
   <!-- Tipografías -->
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Merriweather:wght@700&display=swap" rel="stylesheet">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
@@ -32,14 +42,33 @@
     </div>
   </header>
 
-  <div class="container">
-    <h1>La ola desinformadora</h1>
-    <div id="filtro-casos"></div>
-    <div id="leyenda-tam"></div>
-    <div id="chart"></div>
-  </div>
+  <!-- HERO -->
+  <section class="hero">
+    <h1>La última chance</h1>
 
-  <script src="data.js"></script>
+    <p class="subtitle">
+      Si elegimos mal una vez más, perderemos el Perú. Aquí están todas las apps y plataformas que necesitas para informarte antes de votar.
+    </p>
+    <div id="countdown"></div> </br>
+
+    <input 
+      type="text" 
+      id="search" 
+      placeholder="Buscar herramienta..."
+    >
+  </section>
+
+  <!-- FILTROS (faltaba esto) -->
+  <section class="filters" id="filters"></section>
+
+  <!-- CONTENIDO -->
+  <main>
+    <section class="destacados" id="destacados"></section>
+    <section class="container" id="cards"></section>
+  </main>
+
+  <!-- JS -->
+  <script src="script.js"></script>
 
 </body>
 </html>
